@@ -1,0 +1,38 @@
+---
+enable: true
+title: "Why Choose us?"
+subtitle: >
+          Portray and build your dreams in your space, in your land.
+          We'll help you manage your space with efficient, innovative, creative design that respects your budget and follows trends.
+services:
+  - name: "Architectural planning"
+    description: >
+                Taking into account the client's requirements, we deliver the perfect architectural plan with 
+                optimal space management including project inception, construction information, site supervision, and so on.
+    icon: "ti-pencil"
+  - name: "Interior Designing"
+    description: >
+                Bringing you a great atmosphere at the best possible price and striking a balance between aesthetics and functionality,
+                we offer the perfect interior for your residence, apartments, and commercial buildings.
+    icon: "ti-paint-roller"
+  - name: "Contracting and Construction"
+    description: >
+                We have the best contracting expertise to accomplish construction works that can fulfill the basic requirements and 
+                installations such as plumping and electric works in every project with high-quality products and materials.
+    icon: "ti-envelope"
+  - name: "Furniture and Upholstery"
+    description: >
+                By paying attention to detail and quality, using only the finest fabrics, vinyl and leather, 
+                durable foam and sturdy framing components, we carve suitable and perfect furniture or upholsteries.
+    icon: "ti-palette"
+  - name: "Renovation works"
+    description: >
+                We facilitate any single space be it a kitchen, office, or anywhere to innovative, creative, functional, and
+                 satisfactional areas having proper space management by skilled craftsmanship and expertise in our firm.
+    icon: "ti-ruler-alt-2"
+  - name: "Building valuation"
+    description: >
+                We evaluate the rate of a building based on its structure and strength, location, size and shape,
+                the width of the road, facade, and the quality and efficiency of the building materials used.
+    icon: "ti-check-box"
+---

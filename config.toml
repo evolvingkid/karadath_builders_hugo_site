@@ -1,0 +1,52 @@
+baseURL = 'https://karadathbuilders.com/'
+languageCode = 'en-us'
+paginate = 6
+theme= "coHub"
+title = 'Karadath Builders'
+ 
+[Menu]
+  # Main Menu
+  [[menu.Main]]
+  name = "Exhibition"
+  url= "#gallery"
+  weight = 1
+  [[menu.Main]]
+  name = "Feature"
+  url= "#service"
+  weight = 1
+  [[menu.Main]]
+  name = "About"
+  url= "/about/"
+  weight = 3
+
+  # Sitemap Menu
+[params]
+  aboutPageURL = "blog"
+  contactLink = "contact"
+  copyright = "© {year} KARADATH BUILDERS"
+  fabFormURL =  "https://fabform.io/f/u00kv3-"
+  googleAnalytics = "G-JZ95FEWF9K"
+  logo = "images/favicon.jpg"
+  footerlogo = "images/favicon.jpg"
+  footerDescription = "Find out what you are searching for"
+
+  [params.address]
+  address = "Karadath Builders, <br>  Vijaya Nagar near White Fort, <br> Kundanoor P.O Marad"
+  email = "Karadathbuilders@gmail.com"
+  openingDesc = "Give us a call or drop by anytime; we endeavour to answer all enquiries within 24 hours on business days."
+  openingHours = "We are open from 7am — 7pm week days."
+  phone = "+(91)944 706 9555"
+
+  [params.map]
+  APIkey = "<API KEY>"
+  latitude = "9.9522"
+  longitude = "76.2577"
+  pinImage = "images/pin.png"
+
+  # Socail icons
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://www.instagram.com/karadathbuilders/"
+  weight = 4
+  
+  

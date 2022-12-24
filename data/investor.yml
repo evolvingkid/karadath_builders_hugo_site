@@ -1,0 +1,12 @@
+---
+enable: true
+title: "Meet our team"
+subtitle: >
+          A successful project is the fruit of a successful teamwork done by a group of many hands with one mind
+investor:
+  - name: "Muhammed Rayees"
+    post: "Civil Engineer"
+    image: "images/team/IMG_0973.jpg"
+  - name: "Fathima Rizwana"
+    post: "Architect"
+    image: "images/team/53571.jpg"
